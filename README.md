@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lijuraju
 - 👀 I’m interested in learning new things especially,coding
 - 🌱 I’m currently learning API testing
-- 💞️ I’m looking to collaborate with who are interested in API testing
+- 💞️ I’m looking to collaborate with who are interested in API testing,Selenium and Automation Frameworks**
 
 
 <!---
